@@ -1,4 +1,4 @@
-# VGS Command converter
+# (OLD) VGS Command converter
 Converts SMITE VGS commands from PC to console commands.
 
 
